@@ -1,0 +1,10 @@
+.leftside-container {
+  /* position: absolute; */
+  width: 30%;
+  padding: 0 !important;
+  margin: 10px 1px;
+}
+.left-item-container {
+  height: 90vh;
+  overflow-y: scroll;
+}

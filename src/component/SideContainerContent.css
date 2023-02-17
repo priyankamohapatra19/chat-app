@@ -1,0 +1,13 @@
+.side-container-content-msg {
+  padding: 100px 100px;
+  margin-top: 30%;
+  margin-left: 30%;
+  font-size: large;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.side-container-content {
+  height: 80vh;
+  overflow-y: scroll;
+}

@@ -1,0 +1,14 @@
+.input {
+  width: 96%;
+  border-radius: 8px;
+  padding: 12px 0px;
+  bottom: 3%;
+  border: 1px solid rgb(206, 203, 203);
+}
+.input-container-chat {
+  display: flex;
+}
+.send-button {
+  border: 1px solid rgb(190, 187, 187);
+  border-radius: 4px;
+}

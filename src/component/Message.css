@@ -1,0 +1,22 @@
+.bot {
+  padding: 20px 16px;
+  margin-left: 4%;
+  margin: 24px 24px;
+  background: rgb(159, 163, 167);
+  border-radius: 8px;
+  max-width: 40%;
+  border-bottom-left-radius: 32px;
+}
+
+.user {
+  padding: 20px 6px;
+  margin: 24px 24px;
+  margin-left: 56%;
+  background: rgb(236, 183, 210);
+  border-radius: 8px;
+  max-width: 40%;
+  border-top-right-radius: 32px;
+}
+.time {
+  margin-left: 84%;
+}

@@ -1,0 +1,48 @@
+.item-container {
+  display: flex;
+  padding: 8px;
+  border-radius: 16px;
+  height: 80px;
+  background: seashell;
+  margin: 4px;
+  cursor: pointer;
+}
+.item-container:hover {
+  background: rgb(233, 233, 233);
+}
+.item-image {
+  flex: 1;
+  order: 1;
+  width: 20%;
+  padding: 10px 4px;
+}
+.item-detail {
+  order: 2;
+  width: 60%;
+  padding: 12px 0px;
+}
+.item-time {
+  order: 3;
+  width: 20%;
+  padding: 12px 0px;
+  font-size: 14px;
+}
+.item-title {
+  font-weight: bold;
+}
+.item-msg {
+  font-family: cursive;
+  margin-top: 8px;
+}
+.image {
+  border-radius: 50%;
+}
+.curr-item {
+  display: flex;
+  padding: 8px;
+  border-radius: 16px;
+  height: 80px;
+  margin: 4px;
+  cursor: pointer;
+  background: rgb(233, 233, 233);
+}
